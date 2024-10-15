@@ -61,7 +61,7 @@
 ### **Installation de l’application**
 
 1. **Clonez le dépôt** :
-   git clone https://github.com/votre-utilisateur/star-gallery.git
+   git clone https://github.com/fatikhalil/StarGallery.git
 2.  **Ouvrez le projet dans Android Studio** :
 
 - Dans Android Studio, allez dans **File > Open**.
