@@ -147,6 +147,8 @@ Cliquez sur l'icône de partage pour envoyer des informations sur une star via d
 - **Design modernisé** : Utilisation de composants Material Design pour améliorer l'esthétique générale de l'application.
 
 ## Démonstration vidéo
+https://github.com/user-attachments/assets/69cb7ca0-620c-43e8-99f3-19260ab1e358
+
 ## Auteurs
 
 - **Nom :** KHALIL Fatima
