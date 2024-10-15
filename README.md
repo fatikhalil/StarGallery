@@ -73,8 +73,8 @@
 
 4. **Lancer l’application** :
 
-1. Sélectionnez un émulateur ou un appareil Android réel.
-2. Cliquez sur **Run 'app'** ou utilisez le raccourci clavier `Shift + F10`.
+- Sélectionnez un émulateur ou un appareil Android réel.
+-  Cliquez sur **Run 'app'** ou utilisez le raccourci clavier `Shift + F10`.
 
 ## Structure du projet
 
