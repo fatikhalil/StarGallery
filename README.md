@@ -61,12 +61,11 @@
 ### **Installation de l’application**
 
 1. **Clonez le dépôt** :
-   ```bash
    git clone https://github.com/votre-utilisateur/star-gallery.git
 2.  **Ouvrez le projet dans Android Studio** :
 
-1. Dans Android Studio, allez dans **File > Open**.
-2. Sélectionnez le dossier du projet.
+- Dans Android Studio, allez dans **File > Open**.
+- Sélectionnez le dossier du projet.
 
 3. **Synchronisation Gradle** :
 
